@@ -5,4 +5,3 @@ The code is written in HTML/CSS
 
 ![Portfolio](images/Portfoliosnip.PNG)
 
-[Portfolio](file:///C:/Users/rober/homework/Portfolio/Index.html)
