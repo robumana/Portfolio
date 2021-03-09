@@ -5,4 +5,4 @@ The code is written in HTML/CSS
 
 ![Portfolio](images/Portfoliosnip.PNG)
 
-[Portfolio](git@github.com:robumana/Portfolio.git)
+[Portfolio](file:///C:/Users/rober/homework/Portfolio/Index.html)
