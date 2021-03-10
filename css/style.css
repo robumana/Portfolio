@@ -19,8 +19,8 @@
 body {
 font-family: 'Oswald', sans-serif;
   background-color: var(--color-white);
-  max-width: 2400px;
-  min-width: 400px;
+  /* max-width: 2400px;
+  min-width: 400px; */
   margin: auto;
   
 }
@@ -94,7 +94,7 @@ header {
   align-items: center;
   position: fixed;
   top: 0;
-  width: min(100%, 1200px);
+  width: min(100%, 1600px);
   z-index: 10;
   background-color: var(--color-background);
   padding: 15px 20px;
