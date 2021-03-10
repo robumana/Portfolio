@@ -94,7 +94,7 @@ header {
   align-items: center;
   position: fixed;
   top: 0;
-  width: min(100%, 1600px);
+  width: min(100%, 2400px);
   z-index: 10;
   background-color: var(--color-background);
   padding: 15px 20px;
